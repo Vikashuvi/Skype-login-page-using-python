@@ -3,7 +3,7 @@ from tkinter import*
 import mysql.connector
 from tkinter import messagebox
 root=tkinter.Tk()
-root.title("NOBITA")
+root.title("skype")
 root.configure(bg="white")
 #root.iconbitmap(r'mani.ico')
 root.geometry('1366x768')
